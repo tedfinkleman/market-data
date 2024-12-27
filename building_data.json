@@ -1,0 +1,22 @@
+{
+    "lineChart": [
+        {
+            "name": "Sold Average Price",
+            "value": 524657.9444444445
+        },
+        {
+            "name": "Active Average Price",
+            "value": 446333.3333333333
+        }
+    ],
+    "barChart": [
+        {
+            "name": "Sold Sales Volume",
+            "value": 36
+        },
+        {
+            "name": "Active Sales Volume",
+            "value": 3
+        }
+    ]
+}
